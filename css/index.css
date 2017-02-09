@@ -102,7 +102,7 @@ html, body, .main {
 }
 
 .baseInfo span {
-    font-size: .34rem;
+    font-size: .26rem;
     float: left;
     height: .4rem;
     line-height: .4rem;
@@ -110,7 +110,7 @@ html, body, .main {
 }
 
 .baseInfo b {
-    font-size: .26rem;
+    font-size: .2rem;
     float: right;
     height: .4rem;
     margin-left: .15rem;
@@ -128,7 +128,7 @@ html, body, .main {
 .base-content li {
     /*line-height: .4rem;*/
     font-size: .26rem;
-    margin: .4rem 0;
+    margin: .2rem 0;
     letter-spacing: .08rem;
     font-weight: bold;
     opacity: 0;
@@ -144,7 +144,7 @@ html, body, .main {
 
 .cart {
     position: absolute;
-    bottom: .512rem;
+    bottom: .4rem;
     width: 6.4rem;
     text-align: center;
 }
@@ -253,9 +253,7 @@ html, body, .main {
 #page3 .base-content-3 ul li i{
     animation:fadeIn 2s 1 0.6s both
 }
-.base-content-4{
-    top:3.5rem;
-}
+
 .base-content-4 li{
     width: 2.3rem;
     height: 2.3rem;
@@ -271,13 +269,13 @@ html, body, .main {
 
 .base-content-4 li span{
     display: inline-block;
-    width:1.2rem;
-    height: 1.2rem;
+    width:1rem;
+    height: 1rem;
     border-radius: 50%;
     background: #fff;
     color: black;
     text-align: center;
-    line-height: 1.2rem;
+    line-height: 1rem;
 }
 .base-content-4 li p{
     width:100%;
