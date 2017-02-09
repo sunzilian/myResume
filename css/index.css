@@ -147,11 +147,18 @@ html, body, .main {
     bottom: .4rem;
     width: 6.4rem;
     text-align: center;
+
+}
+
+#page3 .cart img{
+    width: 3rem;
+    height: 3rem;
 }
 
 .cart img {
     width: 4rem;
     height: 4rem;
+
 }
 
 .bar {
